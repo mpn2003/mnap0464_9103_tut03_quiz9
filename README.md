@@ -1,7 +1,7 @@
 ##### mnap0464_9103_tut03_quiz_week9
 
 
-## Imagin Techique Inspiration
+## Imagin Techique Inspiration:
 
 
 
@@ -23,22 +23,18 @@
 > - 2D background (painted);
 > - 3D characters (with particular shades);
 > - Change scene/color;
->
->
 
 
 
 
-## Cooding Technique Exploration
 
-
-
+## Cooding Technique Exploration:
 
 >For the background I could use this technique of [painting](https://www.youtube.com/watch?v=MEYdsoZua7E) for the background texture. There are various techniques and pieces of code that I could use to create 3D elements, thay can  have the same texture as the background, so that they are not too detached. Finally you could use the mouse or keyboard to interact and [change color of the scenary](https://editor.p5js.org/ivymeadows/sketches/B1PpMXlsZ)
 
 
 
-> #### TECHNIQUES FOR 3D ELEMENTS:
+ #### TECHNIQUES FOR 3D ELEMENTS:
 > - [3D](https://editor.p5js.org/p5/sketches/3D:_geometries) (1.0): Code who show how to generete 3D shape.
 > - [3D](https://p5js.org/tutorials/custom-geometry/) (1.2): How to create Custom Geometry.
 >
@@ -46,13 +42,13 @@
 >
 > - [3D](https://archive.p5js.org/learn/getting-started-in-webgl-coords-and-transform.html) (1.4): Understand better the 2D and the 3D in p5.js.
 >
->![3D 1.0](3d_spinning_shapes.png) 3D (1.0)
+>![3D 1.0 ](3d_spinning_shapes.png) [3D](https://editor.p5js.org/p5/sketches/3D:_geometries) (1.0)
 >
->![3D 2.0](3D-bug.png) 3D (1.2)
+>![3D 2.0](3D-bug.png) [3D](https://p5js.org/tutorials/custom-geometry/) (1.2)
 >
->![3D 3.0](3D_landscape.png) 3D (1.3)
+>![3D 3.0](3D_landscape.png) [3D](https://www.youtube.com/watch?app=desktop&v=HJ7D0ysUL74) (1.3)
 >
->![3D 4.0](3D_p5.png) 3D (1.4)
+>![3D 4.0](3D_p5.png) [3D](https://archive.p5js.org/learn/getting-started-in-webgl-coords-and-transform.html) (1.4)
 
 
 

@@ -1,5 +1,6 @@
 ##### mnap0464_9103_tut03_quiz_week9
 
+<br>
 
 ## Imagin Techique Inspiration:
 
@@ -7,7 +8,7 @@
 > 
 > <br>
 >
->In Arcane the ***use of colors*** and how they can change a scene is fascinating. Colors are used in a very *expressive* way to express the drama of a scene ([Arcane image 1](https://in.pinterest.com/pin/1008243435341627746/) ) or to characterize specific places in the setting, ([Arcane image 2](https://it.pinterest.com/pin/402861129190891341/)). In the series we are shown this bar  "The Last Drop" in various contexts, it changes along with the plot and it is fascinating to see how in these two scenes ([Arcane image 3](https://it.pinterest.com/pin/427982770857075007/), [Arcane image 4](https://it.pinterest.com/pin/362047257566218432/)) this bar changes drastically, depending on how events go. For this series they use **3D** characters on a **2D** background but the difference is not that noticeable due to the ***texture*** used on the 3D model.
+>In Arcane the **use of colors** and how they can change a scene is fascinating. Colors are used in a very ***expressive*** way to express the drama of a scene ([Arcane image 1](https://in.pinterest.com/pin/1008243435341627746/) ) or to characterize specific places in the setting, ([Arcane image 2](https://it.pinterest.com/pin/402861129190891341/)). In the series we are shown this bar "The Last Drop" in various contexts, it changes along with the plot and it is really intresting to see how in these two scenes ([Arcane image 3](https://it.pinterest.com/pin/427982770857075007/), [Arcane image 4](https://it.pinterest.com/pin/362047257566218432/)) this bar changes drastically, depending on how events go. For this series they use **3D** characters on a **2D** background but the difference is not that noticeable due to the peinted ***texture*** used on the 3D model.
 > 
 > <br>
 >
@@ -29,26 +30,27 @@
 ![Arcane image 4](TheLastDrop2.png) Arcane: 4
 
 <br>
+<br>
 
 >
 > ### Main points:
 >
 > - 2D background ([painting](https://www.youtube.com/watch?v=MEYdsoZua7E));
-> - [Change color of the scenary](https://editor.p5js.org/ivymeadows/sketches/B1PpMXlsZ);
+> - [Change the color of scene](https://editor.p5js.org/ivymeadows/sketches/B1PpMXlsZ);
 > - [3D](#techniques-for-3d-elements) characters or object (with particular shades);
 > 
 > <br>
 >
 
-
-
-
+<br>
+<br>
+<br>
 
 ## Cooding Technique Exploration:
 > 
 > <br>
 >
->For the background texture I could use this technique of [painting](https://www.youtube.com/watch?v=MEYdsoZua7E). There are various techniques and pieces of code that I could use to create [3D elements](#techniques-for-3d-elements), thay can  have the same texture as the background, so that they are not too different. To be able to change color of the scenary I could use different techniques such as the [mouse](https://editor.p5js.org/ivymeadows/sketches/B1PpMXlsZ) is pressed or the [Key-board](https://editor.p5js.org/AnnabellaPetrak/sketches/vO9avJzv7).
+>There are several techniques and blocks of code that I could use to create the various techniques that interest me. Surely to get an effect ***similar*** to that of Arcane I need to create the [painted texture](https://www.youtube.com/watch?v=MEYdsoZua7E) for the background, the [3D elements](#techniques-for-3d-elements) that will be in the foreground and that can be considered the ***protagonists*** of the scene. They will have a texture ***similar*** to the background but in a way in a way where it is still possible to distinguish the background and the object. Finally to be able to change the color of the scenery, I could use various interactions such as pressing the [mouse](https://editor.p5js.org/ivymeadows/sketches/B1PpMXlsZ) or the [keyboard](https://editor.p5js.org/AnnabellaPetrak/sketches/vO9avJzv7).
 >
 > <br>
 >
@@ -69,9 +71,8 @@
 > <br>
 >
 
-
-
-
+<br>
+<br>
 
  #### TECHNIQUES FOR 3D ELEMENTS:
 >

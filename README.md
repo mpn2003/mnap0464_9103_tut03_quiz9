@@ -48,7 +48,7 @@
 > 
 > <br>
 >
->For the background texture I could use this technique of [painting](https://www.youtube.com/watch?v=MEYdsoZua7E). There are various techniques and pieces of code that I could use to create [3D elements](), thay can  have the same texture as the background, so that they are not too detached. Finally you could use the mouse or keyboard to interact and [change color of the scenary](https://editor.p5js.org/ivymeadows/sketches/B1PpMXlsZ)
+>For the background texture I could use this technique of [painting](https://www.youtube.com/watch?v=MEYdsoZua7E). There are various techniques and pieces of code that I could use to create [3D elements](#techniques-for-3d-elements), thay can  have the same texture as the background, so that they are not too different. To be able to change color of the scenary I could use different techniques such as the [mouse](https://editor.p5js.org/ivymeadows/sketches/B1PpMXlsZ) is pressed or the [Key-board](https://editor.p5js.org/AnnabellaPetrak/sketches/vO9avJzv7).
 >
 > <br>
 >
@@ -56,11 +56,15 @@
 > 
 > <br>
 >
-> ![color 1](color1.png) Change colors (1)
+> ![color 1](color1.png) (1) Change colors with the maus arrow
 > 
 > <br>
 >
-> ![color 2](color2.png) Change colors (2)
+> ![color 2](color2.png) (2) Change colors with the maus arrow
+> 
+> <br>
+>
+> ![color 3](color-change-keyboard.png) (3) Change colors with the key-board
 > 
 > <br>
 >

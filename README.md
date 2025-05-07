@@ -27,7 +27,7 @@
 
 <br>
 
-![Arcane image 4](TheLastDrop2.png) Arcane: 4
+![Arcane image 4](LastDrop2.png) Arcane: 4
 
 <br>
 <br>
